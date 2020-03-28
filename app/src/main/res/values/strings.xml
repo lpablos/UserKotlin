@@ -14,4 +14,8 @@
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
     <string name="welcome">Bienvenido</string>
+    <string name="prompt_email">Ingresar un email</string>
+    <string name="action_sign_in">Continuar</string>
+    <string name="pdhn">@LPablos</string>
+
 </resources>
